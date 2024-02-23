@@ -1,2 +1,2 @@
 # ecommerce-app
-Create a clone of amazon to upgrade my skills in react and nest.js
+Create an e-commerce appliation to upgrade my skills in react and nest.js
